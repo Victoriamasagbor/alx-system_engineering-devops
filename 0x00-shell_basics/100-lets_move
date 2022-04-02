@@ -1,2 +1,2 @@
 #!/bin/bash
-exportLC_ALL=C mv rc/*[A-Z]*dist
+mv [[:upper:]]* /tmp/u
